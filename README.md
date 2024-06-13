@@ -35,7 +35,7 @@ I'm a passionate Computer Science and Engineering student at Netaji Subhas Unive
 - **Tech Stack**: React Native, Redux, Firebase, JavaScript, YELP API
 - An app for browsing and ordering food from nearby restaurants with a user-friendly interface.
 
-### [Netflix Clone](https://netflix-clone-d78e4.web.app/)
+#### [Netflix Clone](https://netflix-clone-d78e4.web.app/)
 - **Tech Stack**: React.js, HTML5, CSS3, Redux, TMDB API, Firebase, JavaScript
 - A feature-rich Netflix clone offering personalized recommendations and subscription management.
 
