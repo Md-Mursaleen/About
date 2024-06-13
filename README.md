@@ -45,8 +45,3 @@ I'm a passionate Computer Science and Engineering student at Netaji Subhas Unive
 **2021 - 2025** | CGPA: 8.77
 
 - Relevant Coursework: Data Structures and Algorithms, Machine Learning, Big Data Analytics, Soft Computing.
-
-## 🌐 Connect with Me
-- [GitHub](https://github.com/Md-Mursaleen)
-- [LinkedIn](https://www.linkedin.com/in/md-mursaleen-462b4b186)
-- [Email](mailto:md.mursaleen.ug21@nsut.ac.in)
