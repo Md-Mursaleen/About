@@ -27,11 +27,11 @@ I'm a passionate Computer Science and Engineering student at Netaji Subhas Unive
 - Led REST API integration for efficient data handling and scalability.
 
 ## 📘 Featured Projects
-### [Crypto Predictor App](https://github.com/Md-Mursaleen/Crypto-Tracker-App)
+#### [Crypto Predictor App](https://github.com/Md-Mursaleen/Crypto-Tracker-App)
 - **Tech Stack**: React Native, Redux, Firebase, Axios, CoinGecko API, JavaScript
 - A dynamic app for tracking and predicting cryptocurrency prices using machine learning.
 
-### [Food Ordering App](https://github.com/Md-Mursaleen/Food-Ordering-App)
+#### [Food Ordering App](https://github.com/Md-Mursaleen/Food-Ordering-App)
 - **Tech Stack**: React Native, Redux, Firebase, JavaScript, YELP API
 - An app for browsing and ordering food from nearby restaurants with a user-friendly interface.
 
