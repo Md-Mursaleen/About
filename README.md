@@ -4,12 +4,12 @@ I'm a passionate Computer Science and Engineering student at Netaji Subhas Unive
 
 - 🌱 Currently honing my skills in Full Stack Development.
 - 👯 Open to collaborating on innovative open source projects.
-- 💬 Ask me about React Native, React.js, HTML, CSS, JavaScript, Firebase and AWS.
+- 💬 Ask me about React Native, React.js, HTML5, CSS3, JavaScript, Firebase and AWS.
 - 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/md-mursaleen-462b4b186) or [Email](mailto:md.mursaleen.ug21@nsut.ac.in).
 
 ## 🛠️ Technical Skills
 **Languages**: C++, C, Python, JavaScript, TypeScript  
-**Technologies**: React.js, React Native, Redux, HTML5, Bootstrap, Tailwind CSS, SQL, Git, Node.js, Express.js, Firebase, MongoDB, AWS, jQuery  
+**Technologies**: React.js, React Native, Redux, HTML5, Bootstrap, Tailwind CSS3, SQL, Git, Node.js, Express.js, Firebase, MongoDB, AWS, jQuery  
 **Coursework**: Data Structures and Algorithms, Machine Learning, Big Data Analytics, Soft Computing, Computational Tools
 
 ## 💼 Professional Experience
